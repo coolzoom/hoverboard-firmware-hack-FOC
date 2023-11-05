@@ -1,4 +1,5 @@
 !build/hover.hex
+.vs/
 .pio/
 .pioenvs/
 .vscode/
